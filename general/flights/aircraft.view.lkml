@@ -1,5 +1,7 @@
 ## this is an automated view
 
+## i am making anohter change
+
 view: aircraft {
   sql_table_name: `cloud-training-demos.looker_flights.aircraft` ;;
 
