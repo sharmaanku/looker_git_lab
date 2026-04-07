@@ -1,3 +1,5 @@
+## this is test file
+
 connection: "bigquery_public_data_looker"
 
 explore: fruit_basket {}
