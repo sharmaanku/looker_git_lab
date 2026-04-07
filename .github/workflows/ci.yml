@@ -17,7 +17,7 @@ jobs:
         run: |
           echo "Running CI validation..."
 
-          if ls *.lkml 1> /dev/null 2>&1; then
+          if ls general/flights/*.lkml 1> /dev/null 2>&1; then
             echo "LookML files found"
           else
             echo "No LookML files found"
